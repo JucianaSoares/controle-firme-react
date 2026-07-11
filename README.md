@@ -35,6 +35,7 @@ Visite a aplicação publicada: [https://controle-firme-react.vercel.app/](https
     │   • Instant Git Integration via Termux Terminal        │
     └────────────────────────────────────────────────────────┘
 
+---
 
 🛠️ Tecnologias Utilizadas
 ​O projeto foi construído empregando as melhores práticas de desenvolvimento front-end moderno, unindo robustez lógica e uma experiência de usuário rica:
@@ -49,10 +50,9 @@ Visite a aplicação publicada: [https://controle-firme-react.vercel.app/](https
 ​Interface Centrada em UX: Visual minimalista focado na redução da ansiedade financeira e no aumento do controle psicológico do usuário sobre o patrimônio.
 ​Hospedagem Automatizada: Ciclo completo de entrega com builds automáticos ativados a cada envio ao repositório oficial.
 
+---
+
 ✒️ Licença e Contato
 ​Desenvolvido com dedicação por Juciana Soares como parte da trilha de especialização em desenvolvimento front-end.
 ​GitHub: @JucianaSoares
 ​Deploy Oficial: ControleFirme na Vercel
-
-
-
